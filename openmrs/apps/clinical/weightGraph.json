@@ -1,0 +1,12 @@
+json
+{
+  "name":"weightGraph",
+  "type":"observationGraph",
+  "title":"Weight-for-Age(Z-score)",
+  "config":{"yAxisConcepts":["Weight"], 
+  "xAxis":"Age", 
+  "referenceData":"weight_zscore_reference.csv",
+  "numberOfVisits":12,
+  }  
+}  
+  
